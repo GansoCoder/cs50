@@ -1,7 +1,7 @@
 # First "scren" shown
 print("Calculator 0.0.1\n")
 print("1. Sum")
-print("2. Multiply")
+print("2. Mult")
 print("3. Div")
 print("4. Sub")
 
